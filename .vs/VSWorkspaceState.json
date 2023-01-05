@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Test",
+    "\\Test\\MIDI\\Source",
+    "\\Test\\MIDI\\Source\\Code",
+    "\\Test\\MIDI\\Source\\Samples",
+    "\\Test\\SQLLite",
+    "\\Test\\Video"
+  ],
+  "SelectedNode": "\\Test\\SQLLite",
+  "PreviewInSolutionExplorer": false
+}

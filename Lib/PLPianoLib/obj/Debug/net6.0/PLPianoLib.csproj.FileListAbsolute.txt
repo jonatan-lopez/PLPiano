@@ -1,0 +1,12 @@
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\bin\Debug\net6.0\PLPianoLib.deps.json
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\bin\Debug\net6.0\PLPianoLib.dll
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\bin\Debug\net6.0\PLPianoLib.pdb
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\PLPianoLib.csproj.AssemblyReference.cache
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\PLPianoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\PLPianoLib.AssemblyInfoInputs.cache
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\PLPianoLib.AssemblyInfo.cs
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\PLPianoLib.csproj.CoreCompileInputs.cache
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\PLPianoLib.dll
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\refint\PLPianoLib.dll
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\PLPianoLib.pdb
+C:\Users\p550439\source\repos\jonatan-lopez\PLPiano\Lib\PLPianoLib\obj\Debug\net6.0\ref\PLPianoLib.dll

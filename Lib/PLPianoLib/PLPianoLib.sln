@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PLPianoLib", "PLPianoLib.csproj", "{6AA2F924-1801-472F-A608-87ABCA352469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLPianoWin", "..\..\WinUI\PLPianoWin\PLPianoWin.csproj", "{0D4FC7FC-6015-4A8D-88D0-9CB3FE6DC5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA2F924-1801-472F-A608-87ABCA352469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA2F924-1801-472F-A608-87ABCA352469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA2F924-1801-472F-A608-87ABCA352469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA2F924-1801-472F-A608-87ABCA352469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4FC7FC-6015-4A8D-88D0-9CB3FE6DC5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4FC7FC-6015-4A8D-88D0-9CB3FE6DC5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4FC7FC-6015-4A8D-88D0-9CB3FE6DC5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4FC7FC-6015-4A8D-88D0-9CB3FE6DC5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F5649F-87CC-43DE-9586-F154921B0D8A}
+	EndGlobalSection
+EndGlobal
